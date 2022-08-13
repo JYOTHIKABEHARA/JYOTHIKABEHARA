@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JYOTHIKABEHARA
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with new coders 
 - 📫 How to reach me ...
 
 <!---
